@@ -26,7 +26,10 @@ Simple directive that turns arrays and objects into downloadable CSV files
   ```
 
 * 32x32 thumbnails are also supported, just add the following line to your head:
+
+```code
 <link rel="stylesheet" type="text/css" href="http://cloud.github.com/downloads/lafeber/world-flags-sprite/flags32.css" />
+```
 
 And and specify the wanted sizein your html:
   ```html
