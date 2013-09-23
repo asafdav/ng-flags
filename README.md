@@ -1,10 +1,8 @@
-ng-flags
+ng-flags - AngularJS country flags directive
 ========
 
 Simple directive for country flags,
 The directive takes country iso code and creates a thumbnail of the country's flag.
-
-Simple directive that turns arrays and objects into downloadable CSV files
 
 
 ## Usage
