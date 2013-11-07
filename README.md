@@ -20,8 +20,7 @@ The directive takes country iso code and creates a thumbnail of the country's fl
 
 4. Start drawing flags
   ```html
-  <span flag="'us'" flag-size="f16"></span>
-  ```
+  <flag country="us" size="16"></flag>
 
 * 32x32 thumbnails are also supported, just add the following line to your head:
 
@@ -31,5 +30,5 @@ The directive takes country iso code and creates a thumbnail of the country's fl
 
 And and specify the wanted sizein your html:
   ```html
-  <span flag="'us'" flag-size="f32"></span>
+  <flag country="us" size="32"></flag>
   ```
