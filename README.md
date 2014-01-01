@@ -32,3 +32,7 @@ And and specify the wanted sizein your html:
   ```html
   <flag country="us" size="32"></flag>
   ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/asafdav/ng-flags/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
