@@ -1,6 +1,7 @@
 {
   "name": "ng-flags",
   "version": "0.0.1",
+  "main": "src/directives/ng-flags.js",
   "dependencies": {
     "angular": "~1.0.4"
   },
